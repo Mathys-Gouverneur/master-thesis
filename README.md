@@ -8,4 +8,5 @@ Machine learning, the process of learning from data, has revolutionized many fie
 
 ## Access to the Thesis
 The full manuscript is available via the institutional repository:
-[➡️ [Official thesis link]](https://thesis.dial.uclouvain.be/entities/masterthesis/f232023e-5c1f-4ce7-b96e-98faa7ec8574)
+
+[[Official thesis link]](https://thesis.dial.uclouvain.be/entities/masterthesis/f232023e-5c1f-4ce7-b96e-98faa7ec8574)
